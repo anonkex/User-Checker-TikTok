@@ -1,6 +1,6 @@
 # User Checker TikTok
 ## ADVERTENCIA:
-Al descargar y utilizar el Programa, usted acepta TODA la responsabilidad. No me responsabilizo de cualquier problema causado con esta herramienta. Al hacerlo, debe saber que está infringiendo los Términos de Servicio, por tanto va contra las normas. Esta herramienta está diseñada única y exclusivamente para hacer SIMULACIONES EN UN ENTORNO PRIVADO Y SEGURO O PARA FINES EDUCATIVOS.
+Al descargar y utilizar el Programa, usted acepta TODA la responsabilidad. No me responsabilizo de cualquier problema causado con esta herramienta. Al ejecutar esta herramienta en los servidores de TikTok, debe saber que está infringiendo los Términos de Servicio, por tanto puede acarrear consecuencias. Esta herramienta está diseñada única y exclusivamente para hacer SIMULACIONES EN UN ENTORNO PRIVADO Y SEGURO O PARA FINES EDUCATIVOS.
 
 # Para que sirve el CHECKER?
 Ejecutando esta herramienta lo que va a hacer es encontrar los nombres de usuario que están disponibles para poner en tu cuenta mediante la lista de usernames.txt que hayas creado, aunque algunos que pueda encontrar pueden no estar disponibles para ningún usuario de la app.
