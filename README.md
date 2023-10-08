@@ -1,5 +1,6 @@
 # User Checker TikTok
-# Made by AnonKex (an0nk3x)
+## ADVERTENCIA:
+Al descargar y utilizar el Programa, usted acepta TODA la responsabilidad. No me responsabilizo de cualquier problema causado con esta herramienta. Al hacerlo, debe saber que está infringiendo los Términos de Servicio, por tanto va contra las normas. Esta herramienta está diseñada única y exclusivamente para hacer SIMULACIONES EN UN ENTORNO PRIVADO Y SEGURO O PARA FINES EDUCATIVOS.
 
 # Para que sirve el CHECKER?
 Ejecutando esta herramienta lo que va a hacer es encontrar los nombres de usuario que están disponibles para poner en tu cuenta mediante la lista de usernames.txt que hayas creado, aunque algunos que pueda encontrar pueden no estar disponibles para ningún usuario de la app.
@@ -42,6 +43,3 @@ OR
 
 # Que hacer después de terminar el programa de CHECKER?
 Luego de ejecutar el programa se creará una carpeta llamada data, dentro de la carpeta habrá un archivo llamado available.txt, los usuarios que se hayan encontrado como disponibles van a almacenarse en ese archivo. AL QUERER VOLVER A EJECUTAR EL CHECKER NO HACE FALTA QUE BORRES LA CARPETA DATA, EL CHECKER LO HARÁ POR TÍ Y REEMPLAZARÁ TODO CON EL NUEVO ARCHIVO "available.txt".
-
-## NOTA:
-Al descargar y utilizar el Programa, usted acepta TODA la responsabilidad. No es mi culpa si decide usarlo en la versión de producción de TikTok. Al hacerlo, está infringiendo los Términos de servicio, lo cual no es mi culpa. No lo he hecho ni lo haré. No utilicé esto en una versión de producción de TikTok y solo lo usé en un clon del sitio web de TikTok que hice y usando mi PC.
